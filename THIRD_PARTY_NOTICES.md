@@ -1,4 +1,4 @@
-﻿# Third-Party Notices
+# Third-Party Notices
 
 Template ini memakai komponen dari project lain. Lisensi masing-masing tetap berlaku
 untuk bagian tersebut.
@@ -9,11 +9,17 @@ untuk bagian tersebut.
 - Lisensi: MIT
 - Dipakai di: `payload/smali/com/maars/fmenu/` (library menu, sudah dimodifikasi:
   subtitle, ikon, ukuran, dan alpha dibaca dari `Config`)
-- Project tersebut juga mengambil sebagian dari LGLTeam Android-Mod-Menu
-  (https://github.com/LGLTeam/Android-Mod-Menu). Lihat repo maarsalien untuk detailnya.
+- Project tersebut juga mengambil sebagian dari LGLTeam Android-Mod-Menu (lihat di bawah).
 
 > TODO sebelum publish: salin teks lisensi MIT lengkap dari repo maarsalien
 > (termasuk baris `Copyright (c) ...`) ke bawah ini.
+
+## Android-Mod-Menu (LGLTeam)
+
+- Sumber: https://github.com/LGLTeam/Android-Mod-Menu
+- Lisensi: GNU General Public License v3.0 (GPL-3.0)
+- Hubungan: desain dan sebagian konsep menu di frida-android-mod-menu berasal dari project ini.
+  Terima kasih untuk LGLTeam sebagai pelopor mod menu Android.
 
 ## Frida Gadget
 

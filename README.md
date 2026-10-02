@@ -1,4 +1,4 @@
-﻿# Frida Android Mod Menu Template (Permanent)
+# Frida Android Mod Menu Template (Permanent)
 
 Template mod menu Android berbasis **Frida Gadget** + **frida-il2cpp-bridge** untuk game Unity IL2CPP.
 Script mod di-embed ke dalam APK, jadi **berjalan permanen tanpa PC, tanpa root, tanpa `frida` CLI**.
@@ -70,6 +70,7 @@ Buka game, ikon menu melayang akan muncul. Selesai, tanpa PC.
 ## Credits
 
 - [maarsalien/frida-android-mod-menu](https://github.com/maarsalien/frida-android-mod-menu) — library menu UI
+- [LGLTeam/Android-Mod-Menu](https://github.com/LGLTeam/Android-Mod-Menu) — inspirasi dan dasar desain mod menu
 - [Frida](https://frida.re) — Frida Gadget
 - [vfsfitvnm/frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge) — IL2CPP API
 
